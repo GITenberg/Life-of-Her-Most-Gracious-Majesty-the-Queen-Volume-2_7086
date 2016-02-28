@@ -1,0 +1,26 @@
+_repo: Life-of-Her-Most-Gracious-Majesty-the-Queen-Volume-2_7086
+creator:
+  author:
+    agent_name: Tytler, Sarah
+    aliases:
+    - Keddie, Henrietta
+    - Tytler, Sara
+    birthdate: 1827
+    deathdate: 1914
+    gutenberg_agent_id: '2248'
+    url: http://www.gutenberg.org/2009/agents/2248
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7086'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Victoria, Queen of Great Britain, 1819-1901'
+- !lcc 'DA'
+title: Life of Her Most Gracious Majesty the Queen — Volume 2
+url: http://www.gutenberg.org/ebooks/7086
