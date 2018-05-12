@@ -1,4 +1,8 @@
 _repo: Life-of-Her-Most-Gracious-Majesty-the-Queen-Volume-2_7086
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tytler, Sarah
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '2248'
     url: http://www.gutenberg.org/2009/agents/2248
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7086#Life-of-Her-Most-Gracious-Majesty-the-Queen-Volume-2
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
